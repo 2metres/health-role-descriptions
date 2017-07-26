@@ -5,7 +5,7 @@
 # Modernising Health and Aged Care Payments Services Program
 
 ## Background
-Each year, through health and aged care programs, the Government makes in excess of 600 million payments to individuals and health and aged care providers, worth approximately $50bn.
+Each year, through health and aged care programs, the Government makes in excess of 600 million payments to individuals and health and aged care providers, worth approximately $50V.
 
 The current IT systems supporting health and aged care payments are a complex web, which have evolved over 30 years. The Medicare systems alone comprise over 200 applications and 90 databases, many of which are aging and based on obsolete technology.
 
@@ -19,6 +19,7 @@ The Government has established the Modernising Health and Aged Care Payments Ser
 
 The vision for the Program is to deliver a new Digital Payments Platform that supports a digital-first (or digitally enabled) service delivery business model and simpler, faster, easier services for users.
 
+###### Roles:
 {% for role in site.roles %}
-- [ {{ role.title }} ]({{role.url}})
+- [ {{ role.title }} ]( {{role.url}} )
 {% endfor %}

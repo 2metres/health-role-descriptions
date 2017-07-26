@@ -1,5 +1,6 @@
 ---
-  title: Lead Developer
+  title: Lead Developer/Tech Lead
+  categories: leadership development
 ---
 
 # {{page.title}}

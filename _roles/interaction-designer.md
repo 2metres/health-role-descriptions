@@ -1,5 +1,6 @@
 ---
   title: Interaction Designer
+  categories: design
 ---
 
 # {{page.title}}

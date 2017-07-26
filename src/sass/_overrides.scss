@@ -1,0 +1,10 @@
+
+.uikit-body {
+  font-family: 'Open Sans', sans-serif;
+
+  p, ul, ol, dl {
+    margin-top: uikit-space(0.3125);
+    margin-bottom: uikit-space(0.625);
+    max-width: none;
+  }
+}

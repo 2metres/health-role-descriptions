@@ -1,2 +1,15 @@
+$mobile-plus: 25.875em;
+$tablet-portrait: 48em;
+
 @import "uikit";
+@import "overrides";
 @import "typography";
+
+.uikit-grid {
+  .container,
+  .container-fluid {
+    max-width: 48em;
+    padding-left: uikit-space(.75);
+    padding-right: uikit-space(.75);
+  }
+}

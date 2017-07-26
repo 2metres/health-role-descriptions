@@ -9,8 +9,11 @@ exclude:
   - "pancake"
 
 defaults:
-  -
-    scope:
+  - scope:
       path: ""
     values:
      layout: "default"
+
+collections:
+  roles:
+    output: true

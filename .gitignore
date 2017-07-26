@@ -11,5 +11,5 @@ node_modules
 npm-debug.log
 src/sass/uikit.scss
 pancake
-assets/css/
+assets/css/style.min.css
 screenshots/

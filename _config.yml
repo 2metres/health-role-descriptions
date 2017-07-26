@@ -1,0 +1,16 @@
+exclude:
+  - ".gitignore"
+  - "README.md"
+  - "Gemfile.lock"
+  - "Gemfile"
+  - "vendor/bundle"
+  - "node_modules"
+  - "screenshots"
+  - "pancake"
+
+defaults:
+  -
+    scope:
+      path: ""
+    values:
+     layout: "default"

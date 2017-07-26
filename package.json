@@ -1,0 +1,61 @@
+{
+  "name": "health-role-descriptions",
+  "repository": "git@github.com:2metres/health-role-descriptions.git",
+  "author": "Andrew Carr <andrew@2metres.com",
+  "scripts": {
+    "build": "./node_modules/.bin/node-sass src/sass/main.scss assets/css/style.min.css --output-style compressed",
+    "watch": "npm run build && onchange 'src/sass/*.scss' -- npm run build"
+  },
+  "devDependencies": {
+    "browser-sync": "^2.18.8",
+    "chromedriver": "^2.29.1",
+    "nightwatch": "^0.9.15",
+    "node-sass": "^4.5.3",
+    "npm-run-all": "^4.0.2",
+    "onchange": "^3.2.1"
+  },
+  "dependencies": {
+    "@gov.au/accordion": "^0.2.0",
+    "@gov.au/body": "^0.1.0",
+    "@gov.au/breadcrumbs": "^0.1.0",
+    "@gov.au/buttons": "^0.3.0",
+    "@gov.au/callout": "^0.1.0",
+    "@gov.au/control-input": "^0.1.0",
+    "@gov.au/cta-link": "^0.1.0",
+    "@gov.au/footer": "^0.1.0",
+    "@gov.au/grid-12": "^0.1.0",
+    "@gov.au/header": "^1.0.0",
+    "@gov.au/inpage-nav": "^0.1.1",
+    "@gov.au/page-alerts": "^0.1.1",
+    "@gov.au/pancake": "^1.1.0",
+    "@gov.au/pancake-js": "^1.0.9",
+    "@gov.au/pancake-sass": "^1.1.0",
+    "@gov.au/progress-indicator": "^0.1.0",
+    "@gov.au/responsive-media": "^0.1.0",
+    "@gov.au/select": "^0.2.0",
+    "@gov.au/tags": "^0.2.0",
+    "@gov.au/text-inputs": "^0.1.0"
+  },
+  "pancake": {
+    "auto-save": false,
+    "plugins": true,
+    "ignore": [],
+    "css": {
+      "minified": true,
+      "modules": false,
+      "browsers": [
+        "last 2 versions",
+        "ie 8",
+        "ie 9",
+        "ie 10"
+      ],
+      "location": "pancake",
+      "name": "pancake.css"
+    },
+    "sass": {
+      "modules": false,
+      "location": "./src/sass/",
+      "name": "uikit.scss"
+    }
+  }
+}

@@ -1,3 +1,15 @@
-_site/
-.sass-cache/
+<<<<<<< HEAD
 .jekyll-metadata
+*.gem
+.bundle
+.sass-cache
+_site
+Gemfile.lock
+*.swp
+.DS_Store
+node_modules
+npm-debug.log
+src/sass/uikit.scss
+pancake
+assets/css/
+screenshots/

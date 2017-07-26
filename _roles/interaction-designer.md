@@ -2,7 +2,7 @@
   title: Interaction Designer
 ---
 
-# Interaction Designer
+# {{page.title}}
 
 ## The Job
 

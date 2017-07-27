@@ -1,9 +1,8 @@
 ---
   title: Content Designer
   categories: designer content
+  layout: role
 ---
-
-# {{page.title}}
 
 ### The Job
 
@@ -17,7 +16,7 @@ You will work in an Agile environment, producing user-centered content quickly a
 
 You have experience in usability, search engine optimisation, Google Analytics and digital accessibility.
 
-You have a passion for making sure that government information and services are designed for everyone. 
+You have a passion for making sure that government information and services are designed for everyone.
 
 ### Specific tasks and experience required
 

@@ -20,9 +20,11 @@ The Government has established the Modernising Health and Aged Care Payments Ser
 The vision for the Program is to deliver a new Digital Payments Platform that supports a digital-first (or digitally enabled) service delivery business model and simpler, faster, easier services for users.
 
 ###### Roles:
-{% for role in site.roles %}
-- [ {{ role.title }} ]( {{role.url}} )
+{% if site.roles %}
+{% for role in site.roles %}  
+- [{{ role.title }}]({{role.url}})
 {% endfor %}
+{% endif %}
 
 ### How we work
 

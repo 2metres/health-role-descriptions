@@ -1,6 +1,5 @@
 ---
   title: Lead Developer/Tech Lead
   categories: leadership development
+  layout: role
 ---
-
-# {{page.title}}

@@ -28,7 +28,6 @@ The vision for the Program is to deliver a new Digital Payments Platform that su
 
 You will work in an agile way and actively participate in agile team practises like weekly retrospectives, daily standups, weekly showcases and weekly sprint planning, while tracking work with online tools.
 
-You and your teams will build minimum viable products according to our service design principles, and apply technology pragmatically. You will create and test hypotheses about user behaviour by using analytics, observing real users and acting on the results. 
+You and your teams will build minimum viable products according to our service design principles, and apply technology pragmatically. You will create and test hypotheses about user behaviour by using analytics, observing real users and acting on the results.
 
 You will work in co-located teams, and help evolve the DTA’s remote working practices. You will participate in wider internal and external communities (eg content design guilds) that guide how we work at the DTA and across government.
-

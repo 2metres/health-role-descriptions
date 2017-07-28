@@ -1,7 +1,7 @@
 ---
-  title: Service Designer
-  categories: design research
-  layout: role
+title: Service Designer
+categories: design research
+layout: role
 ---
 
 ### The Job

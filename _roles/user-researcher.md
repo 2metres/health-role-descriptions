@@ -1,7 +1,7 @@
 ---
-  title: User Researcher
-  categories: design research
-  layout: role
+title: User Researcher
+categories: design research
+layout: role
 ---
 
 ### The Job

@@ -1,7 +1,7 @@
 ---
-  title: Content Designer
-  categories: designer content
-  layout: role
+title: Content Designer
+categories: designer content
+layout: role
 ---
 
 ### The Job

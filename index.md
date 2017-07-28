@@ -22,7 +22,7 @@ The vision for the Program is to deliver a new Digital Payments Platform that su
 ###### Roles:
 {% if site.roles %}
 {% for role in site.roles %}  
-- [{{ role.title }}]({{role.url}})
+- [{{ role.title }}]({{ role.url }})
 {% endfor %}
 {% endif %}
 

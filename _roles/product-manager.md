@@ -1,7 +1,7 @@
 ---
-  title: Product Manager
-  categories: product
-  layout: role
+title: Product Manager
+categories: product
+layout: role
 ---
 
 ### The Job

@@ -1,7 +1,7 @@
 ---
-  title: Developer (Full Stack)
-  categories: development
-  layout: role
+title: Developer (Full Stack)
+categories: development
+layout: role
 ---
 
 ### The Job

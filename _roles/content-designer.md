@@ -6,7 +6,7 @@ layout: role
 
 ### The Job
 
-As a digital content specialist you will be helping government do the hard work to radically improve government information and services.
+As a digital Content Designer you will be helping government do the hard work to radically improve its' information and services.
 
 You have outstanding writing and editing skills and the ability to translate complicated information into plain English – in as few words as possible.
 

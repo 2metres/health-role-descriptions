@@ -9,8 +9,6 @@
   },
   "devDependencies": {
     "browser-sync": "^2.18.8",
-    "chromedriver": "^2.29.1",
-    "nightwatch": "^0.9.15",
     "node-sass": "^4.5.3",
     "npm-run-all": "^4.0.2",
     "onchange": "^3.2.1"

@@ -1,5 +1,5 @@
 ---
-  title: Index
+title: Index
 ---
 
 # Modernising Health and Aged Care Payments Services Program

@@ -16,17 +16,17 @@ You will do research with a wide range of people in order to ensure an inclusive
 
 The unit of delivery is the team. People bring skills to the team to deliver services. You will bring these skills and attributes to the team:
 
-- work at pace as part of an agile multi-disciplined team
-- provide insights to your team to enable the design of successful, user focussed services that are usable for the entire population
-- ensure that services are able to be used by people who have particular access needs
-- ensure that services are able to be used by people on a wide range of device formats
-- plan and conduct a range of research including contextual enquiry, usability testing, depth interviews, diary studies and others as required
-- identify user needs and ensure that your team understands them and keeps user needs at front of mind when making product and prioritisation decisions
-- create design hypotheses to improve the service and work with product manager, interaction designer, content designer and performance analyst to run design experiments
-- creatively communicate key insights about users and user needs from research
-- create service maps and customer journey maps for services
-- share your experience and knowledge with the research and design community within DTA and the APS more widely through good communication, participation in events and writing guides and blog posts
-- promote a positive creative culture and help to build a strong user research reputation for the program
-- 3 to 5 years experience in user research or related field. 
-- qualifications in Human Computer Interaction, Design, Anthropology or Psychology are highly desirable.
+- Work at pace as part of an agile multi-disciplined team
+- Provide insights to your team to enable the design of successful, user focussed services that are usable for the entire population
+- Ensure that services are able to be used by people who have particular access needs
+- Ensure that services are able to be used by people on a wide range of device formats
+- Plan and conduct a range of research including contextual enquiry, usability testing, depth interviews, diary studies and others as required
+- Identify user needs and ensure that your team understands them and keeps user needs at front of mind when making product and prioritisation decisions
+- Create design hypotheses to improve the service and work with product manager, interaction designer, content designer and performance analyst to run design experiments
+- Creatively communicate key insights about users and user needs from research
+- Create service maps and customer journey maps for services
+- Share your experience and knowledge with the research and design community within the program and the APS
+- Promote a positive creative culture and help to build a strong user research reputation for the program
+- 3 to 5 years experience in user research or related field
+- Qualifications in Human Computer Interaction, Design, Anthropology or Psychology are highly desirable
 

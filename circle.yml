@@ -21,6 +21,10 @@ dependencies:
     - bundle install
     - yarn install
 
+test:
+  override:
+    - make test
+
 deployment:
   integration:
     branch: master

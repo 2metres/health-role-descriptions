@@ -1,3 +1,9 @@
+test:
+	./node_modules/.bin/nightwatch
+
+test-headfull:
+	./node_modules/.bin/nightwatch --env headfull
+
 build: css-build jekyll-build
 
 css-build:

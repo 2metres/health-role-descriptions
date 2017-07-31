@@ -6,7 +6,7 @@ layout: role
 
 ### The Job
 
-As a digital content specialist you will be helping government do the hard work to radically improve government information and services.
+As a digital Content Designer you will be helping government do the hard work to radically improve its' information and services.
 
 You have outstanding writing and editing skills and the ability to translate complicated information into plain English – in as few words as possible.
 
@@ -22,15 +22,16 @@ You have a passion for making sure that government information and services are 
 
 The unit of delivery is the team. People bring skills to the team to deliver services. As a Content Designer you will bring these skills and attributes to the team:
 
-- work at pace as part of an Agile multi-disciplined team
-- develop content for successful, user focussed services that are usable for the entire population
-- deliver content that meets accessibility standards
-- deliver content that will work on all device formats (responsive design)
-- directly edit content in prototypes using tools to directly contribute to code repository
-- identify user needs and demonstrate how content decisions support these needs
-- create content design hypotheses to improve the service and work with product manager, user researcher, interaction designer and performance analyst to run design experiments
-- confidently explain your content design decisions and rationale and be open to and encourage critique from colleagues
-- conduct content reviews and content audits of existing services
-- conduct quality spot checks and provide feedback for other content designers
-- adhere to and contribute to our Content Guide
-- Minimum 5 years experience required.
+- Work at pace as part of an Agile multi-disciplined team
+- Develop content for successful, user focussed services that are usable for the entire population
+- Deliver content that meets accessibility standards
+- Deliver content that will work on all device formats (responsive design)
+- Directly edit content in prototypes using tools to directly contribute to code repository
+- Identify user needs and demonstrate how content decisions support these needs
+- Create content design hypotheses to improve the service and work with product manager, user researcher, interaction designer and performance analyst to run design experiments
+- Confidently explain your content design decisions and rationale and be open to and encourage critique from colleagues
+- Conduct content reviews and content audits of existing services
+- Conduct quality spot checks and provide feedback for other content designers
+- Adhere to and contribute to our Content Guide
+- Share your experience and knowledge with the content design community within the program and the APS
+- Minimum 5 years experience required

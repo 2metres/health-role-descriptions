@@ -1,13 +1,29 @@
 .uikit-header {
-  padding: uikit-space(0.5) 0;
-  margin-bottom: uikit-space(0.25);
+  padding: uikit-space(1) 0;
+  margin-bottom: uikit-space(0.75);
+  border-top: 6px solid $uikit-colour-Primary;
 }
 
 .uikit-header__logo {
   width: 100%;
   max-width: $mobile / 2;
 
-  @media (min-width: $tablet-portrait) {
+  .primary {
+    fill: white;
+  }
+  line {
+    stroke: white;
+  }
+}
 
+a.uikit-header__link {
+  display: inline-block;
+  border-bottom: none;
+  background: none;
+
+  &:hover,
+  &:focus {
+    border-bottom: none;
+    background: none;
   }
 }

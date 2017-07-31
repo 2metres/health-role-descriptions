@@ -14,7 +14,6 @@
     "onchange": "^3.2.1"
   },
   "dependencies": {
-    "@gov.au/accordion": "^0.2.0",
     "@gov.au/body": "^0.1.0",
     "@gov.au/breadcrumbs": "^0.1.0",
     "@gov.au/buttons": "^0.3.0",
@@ -29,11 +28,7 @@
     "@gov.au/pancake": "^1.1.0",
     "@gov.au/pancake-js": "^1.0.9",
     "@gov.au/pancake-sass": "^1.1.0",
-    "@gov.au/progress-indicator": "^0.1.0",
-    "@gov.au/responsive-media": "^0.1.0",
-    "@gov.au/select": "^0.2.0",
-    "@gov.au/tags": "^0.2.0",
-    "@gov.au/text-inputs": "^0.1.0"
+    "@gov.au/responsive-media": "^0.1.0"
   },
   "pancake": {
     "auto-save": false,

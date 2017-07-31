@@ -7,6 +7,12 @@
     margin-bottom: uikit-space(0.625);
     max-width: none;
   }
+  a {
+    &:hover,
+    &:focus {
+      border-bottom: 1px transparent solid;
+    }
+  }
 }
 
 .uikit-link-list > li {

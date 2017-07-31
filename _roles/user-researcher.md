@@ -1,7 +1,6 @@
 ---
 title: User Researcher
 categories: design research
-layout: role
 ---
 
 ### The Job
@@ -29,4 +28,3 @@ The unit of delivery is the team. People bring skills to the team to deliver ser
 - Promote a positive creative culture and help to build a strong user research reputation for the program
 - 3 to 5 years experience in user research or related field
 - Qualifications in Human Computer Interaction, Design, Anthropology or Psychology are highly desirable
-

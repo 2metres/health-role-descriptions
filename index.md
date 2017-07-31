@@ -1,12 +1,6 @@
 ---
-title: Index
+title: Modernising Health and Aged Care Payments Services Program
 ---
-
-# Modernising Health and Aged Care Payments Services Program
-
-<div class="row">
-
-<div markdown="1" class="col-md-8">
 
 ### Background
 Each year, through health and aged care programs, the Government makes in excess of 600 million payments to individuals and health and aged care providers, worth approximately $50bn.
@@ -21,7 +15,7 @@ To address this challenge, the Government has decided to replace the IT systems 
 
 The Government has established the Modernising Health and Aged Care Payments Services Program (the Program) to deliver the transformation of the health and aged care payments services and the implementation of a new Digital Payments Platform.
 
-The vision for the Program is to deliver a new Digital Payments Platform that supports a digital-first (or digitally enabled) service delivery business model and simpler, faster, easier services for users.
+The vision for the Program is to deliver a new Digital Payments Platform that will harness existing digital commercial technology to develop a new Digital Payments Platform, which will be underpinned by modern, reliable and flexibile technology.
 
 ### How we work
 
@@ -30,23 +24,3 @@ You will work in an agile way and actively participate in agile team practises l
 You and your teams will build minimum viable products according to our service design principles, and apply technology pragmatically. You will create and test hypotheses about user behaviour by using analytics, observing real users and acting on the results.
 
 You will work in co-located teams, and help evolve the DTA’s remote working practices. You will participate in wider internal and external communities (eg content design guilds) that guide how we work at the DTA and across government.
-
-</div>
-
-<aside id="sidebar" markdown="1" class="col-md-4">
-###### Roles:
-
-{% if site.roles %}
-{% for role in site.roles %}  
-- [{{ role.title }}]({{ role.url }})
-{% endfor %}
-{% endif %}
-</aside>
-
-</div>
-
-<script type="text/javscript">
-new Waypoint.Sticky({
-  element: document.getElementById('sidebar');
-});
-</script>

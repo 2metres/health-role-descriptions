@@ -6,12 +6,23 @@
     <title>{{ page.title }}</title>
     <link rel="stylesheet" href="/assets/css/style.min.css">
     <link href="https://fonts.googleapis.com/css?family=Open+Sans:300,300i,400,400i,700,700i" rel="stylesheet">
+
+    <script type="text/javascript" src="/assets/js/mixpanel.min.js"></script>
   </head>
 
   <body class="uikit-body">
     <main class="uikit-grid">
       {% include header.html %}
-      <div class="container">{{ content }}</div>
+      <div class="container">
+        <h1>{{ page.title }}</h1>
+        <div class="col-md-8">{{ content }}</div>
+        <aside class="col-md-4">{% include sidebar.html %}</aside>
+      </div>
     </main>
+    <script type="text/javascript">
+      mixpanel.track('Visited page', {
+        'title': '{{ page.title }}'
+      });
+    </script>
   </body>
 </html>

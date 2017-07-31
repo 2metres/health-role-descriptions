@@ -33,5 +33,4 @@ The unit of delivery is the team. People bring skills to the team to deliver ser
 - conduct content reviews and content audits of existing services
 - conduct quality spot checks and provide feedback for other content designers
 - adhere to and contribute to our Content Guide
-- share your experience and knowledge with the content design community within the DTA and the APS more widely through good communication, participation in events, guilds and blog posts
 - Minimum 5 years experience required.

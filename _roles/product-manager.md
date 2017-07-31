@@ -24,4 +24,4 @@ The unit of delivery is the team. People bring skills to the team to deliver ser
 - A passion for making things that improve people’s lives
 - Deep understanding of agile and lean product development and management
 - An understanding of research, user experience, software development, operations. You can rally and talk the language of experts in these disciplines.
-- At least 3 years experience in product management, or relevant transferrable experience.
+- At least 3 years experience in product management, or relevant transferrable experience

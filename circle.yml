@@ -21,9 +21,9 @@ dependencies:
     - bundle install
     - yarn install
 
-test:
-  override:
-    - make test
+# test:
+#   override:
+#     - make test
 
 deployment:
   integration:

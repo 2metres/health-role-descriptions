@@ -21,20 +21,6 @@ The main responsibilities of the role are:
 - maintain effective relationships with stakeholders both within the project, in the wider programme, wider program and government
 - ensure teams are able to work effectively by having a productive working environment
 
-
-### Our People
-
-The program values people who:
-
-- learn, teach and share,
-- care about making things better for people,
-- take great pride in their work,
-- have a track record of delivery,
-- work well with other people and are open and collaborative, and
-- can communicate clearly and simply about their work.
-
-The program also values diversity, and we’re actively seeking candidates with varied backgrounds.
-
 ### Your Skills
 
 The unit of delivery is the team. People bring skills to the team to deliver services. As a delivery manager, you will be have significant experience in:

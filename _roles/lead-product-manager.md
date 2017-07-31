@@ -25,13 +25,12 @@ The unit of delivery is the team. People bring skills to the team to deliver ser
 - A passion for making things that improve people’s lives
 - Deep understanding of agile and lean product development and management
 - An understanding of research, user experience, software development, operations. You can rally and talk the language of experts in these disciplines.
-- At least 10 years digital product management experience in a leadership role 
+- At least 10 years digital product management experience in a leadership role
 
 ### Your responsibilities
 
-- Leading and mentoring the APS Product Managers within the Product Delivery teams 
-- Assisting the Snr. Program Manager to empower and protect the Product Delivery teams 
+- Leading and mentoring the APS Product Managers within the Product Delivery teams
+- Assisting the Snr. Program Manager to empower and protect the Product Delivery teams
 - Working with architecture and technology leads in the program to develop solutions that meet user needs and deliver business outcomes
-- Setting the standards, and championing the multidisciplinary team approach to delivery define by the Government’s Digital Service Standard 
+- Setting the standards, and championing the multidisciplinary team approach to delivery define by the Government’s Digital Service Standard
 - Contributing to the Program’s engagement process whereby new ideas are assessed and prioritised for delivery by the teams
-

@@ -4,7 +4,7 @@ set -e
 set -o pipefail
 set -v
 
-#cf login -a $CF_API -u $CF_USER -p $CF_PASSWORD
+cf login -a $CF_API -u $CF_USER -p $CF_PASSWORD
 
 # setup basic auth on the container
 #

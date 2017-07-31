@@ -1,0 +1,13 @@
+.uikit-header {
+  padding: uikit-space(0.5) 0;
+  margin-bottom: uikit-space(0.25);
+}
+
+.uikit-header__logo {
+  width: 100%;
+  max-width: $mobile / 2;
+
+  @media (min-width: $tablet-portrait) {
+
+  }
+}

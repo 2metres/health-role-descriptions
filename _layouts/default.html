@@ -15,8 +15,14 @@
       {% include header.html %}
       <div class="container">
         <h1>{{ page.title }}</h1>
-        <div class="col-md-8">{{ content }}</div>
-        <aside class="col-md-4">{% include sidebar.html %}</aside>
+        <div class="row">
+          <article class="col-md-8">{{ content }}</article>
+          <aside class="col-md-4">
+            <h6>Related</h6>
+            <a href="https://marketplace.service.gov.au/" class="uikit-cta-link">Marketplace Brief</a>
+            {% include sidebar.html %}
+          </aside>
+        </div>
       </div>
     </main>
     <script type="text/javascript">

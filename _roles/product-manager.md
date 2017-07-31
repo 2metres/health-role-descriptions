@@ -16,7 +16,6 @@ You will also build empathy with users by regularly observing real people using 
 
 ### Your Skills
 
-Your skills
 The unit of delivery is the team. People bring skills to the team to deliver services. As a product manager, you will bring these skills and attributes to the team:
 - Ability to define and clearly articulate the product vision and communicate this to your team and beyond
 - Fighting for the user

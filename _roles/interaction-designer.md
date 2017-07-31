@@ -1,7 +1,6 @@
 ---
 title: Interaction Designer
 categories: design
-layout: role
 ---
 
 ## The Job

@@ -1,0 +1,8 @@
+{% if site.roles %}
+  <h6>Roles:</h6>
+  <ul class="uikit-link-list">
+    {% for role in site.roles %}
+      <li><a href="{{ role.url }}">{{ role.title }}</a></li>
+    {% endfor %}
+  </ul>
+{% endif %}

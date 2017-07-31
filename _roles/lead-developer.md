@@ -1,7 +1,6 @@
 ---
 title: Lead Developer/Tech Lead
 categories: leadership development
-layout: role
 ---
 
 ### The Job
@@ -22,9 +21,8 @@ Reporting to the Snr. Program Delivery Manager you will form part of the Program
 
 In addition to being a part of the development process you will assist the program team:
 
-- Supporting the Snr. Program Delivery Manager to lead the teams 
-- Hiring, leading, mentoring and monitoring the performance of developers in the teams 
+- Supporting the Snr. Program Delivery Manager to lead the teams
+- Hiring, leading, mentoring and monitoring the performance of developers in the teams
 - Working with architecture and business leads to develop solutions that meet user needs and deliver business outcomes
-- Setting the standards, defining the toolset and championing test driven development and a Devops approach to delivery 
+- Setting the standards, defining the toolset and championing test driven development and a Devops approach to delivery
 - Contributing to the Program’s engagement process whereby new ideas are assessed and prioritised for delivery by the teams
-

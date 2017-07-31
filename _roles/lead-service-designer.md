@@ -1,7 +1,6 @@
 ---
 title: Lead Service Designer
 categories: leadership design
-layout: role
 ---
 
 ### The Job
@@ -26,12 +25,12 @@ The unit of delivery is the team. People bring skills to the team to deliver ser
 - Design successful, user focussed services that are usable for the entire population across all delivery channels
 - Iterate service designs based on user research.
 - Identify user needs and demonstrate how design decisions support these needs.
-- Create design hypotheses to improve the service and work colleagues to run design measureable design experiments 
+- Create design hypotheses to improve the service and work colleagues to run design measureable design experiments
 
 ### Your responsibilities
 
-- Leading and mentoring Service Designers and User Researchers within the Product Delivery teams 
-- Assisting the Snr. Program Manager to empower and protect the Product Delivery teams 
+- Leading and mentoring Service Designers and User Researchers within the Product Delivery teams
+- Assisting the Snr. Program Manager to empower and protect the Product Delivery teams
 - Working with architecture and technology leads in the program to develop solutions that meet user needs and deliver business outcomes
-- Setting the standards, and championing the multidisciplinary team approach to delivery define by the Government’s Digital Service Standard 
+- Setting the standards, and championing the multidisciplinary team approach to delivery define by the Government’s Digital Service Standard
 - Contributing to the Program’s engagement process whereby new ideas are assessed and prioritised for delivery by the teams

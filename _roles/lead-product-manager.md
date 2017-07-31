@@ -14,8 +14,6 @@ You will support the APS Product Managers leading the Product Delivery teams of 
 
 You will work with the Product Managers to create the vision for the product, and set the day-to-day priorities to fulfil that vision and ensure your team delivers. You will create the environment that allows the teams to succeed.
 
-You will also build empathy with users by regularly observing real people using those services, gaining crucial first-hand experience which will guide your work.
-
 ### Your skills
 
 The unit of delivery is the team. People bring skills to the team to deliver services. As a product manager, you will bring these skills and attributes to the team:

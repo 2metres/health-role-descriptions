@@ -18,7 +18,7 @@ Working in a highly dynamic and fast-paced Program supporting the divisional exe
 
 ### Job Capabilities
 
-Due to the level of business interaction, it is vital you have excellent written and verbal communication skills.  Other capabilities include: 
+Due to the level of business interaction, it is vital you have excellent written and verbal communication skills.  Other capabilities include:
 
 - Apply knowledge of industry design tools for developing graphic design, desktop publishing, illustration and lightweight prototype products
 - Experience creating workflow and service maps, as well as creating data visualisations
@@ -27,10 +27,10 @@ Due to the level of business interaction, it is vital you have excellent written
 - Strong strategic, analytical, problem solving and planning skills
 - Possess a demonstrable positive and collaborative attitude
 - Desire to learn and to communicate in a collaborative high-performance, self-directed work team
-- Ability to embrace and thrive in a constantly changing environment
-- Demonstrated ability to positively contribute to your own and other’s work to achieve Program objectives 
+- Ability to embrace and thrive in a constantly changing environmen
+- Demonstrated ability to positively contribute to your own and other’s work to achieve Program objectives
 - Demonstrated ability to deliver work in a modern, flexible, management team
-- Demonstrated personal leadership ability 
+- Demonstrated personal leadership ability
 
 ### Desirable Qualifications or Experience
 

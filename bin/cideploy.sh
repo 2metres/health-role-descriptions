@@ -9,12 +9,7 @@ cf login -a $CF_API -u $CF_USER -p $CF_PASSWORD
 # setup basic auth on the container
 #
 basicauth() {
-  if [[ -n ${CF_BASIC_AUTH_PASSWORD+x} ]]
-  then
-    sudo htpasswd -cb _site/Staticfile.auth $CF_BASIC_AUTH_USERNAME $CF_BASIC_AUTH_PASSWORD
-  else
-    echo "Not setting a password."
-  fi
+  echo "Not setting a password."
 }
 
 # main script function

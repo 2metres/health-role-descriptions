@@ -8,13 +8,35 @@
     max-width: none;
   }
   a {
+    transition: border-bottom 200ms;
+  
     &:hover,
     &:focus {
       border-bottom: 1px transparent solid;
     }
   }
+  
+  &::before {
+    content:'';
+    position: fixed;
+    display: block;
+    top: 0;
+    right: 0;
+    left: 0;
+    width: 100%;
+    border-top: 3px solid $uikit-colour-Primary;
+  }
 }
 
 .uikit-link-list > li {
   margin: uikit-space(0.125) 0;
+}
+
+.uikit-grid {
+  .container,
+  .container-fluid {
+    max-width: 48em;
+    padding-left: uikit-space(.75);
+    padding-right: uikit-space(.75);
+  }
 }

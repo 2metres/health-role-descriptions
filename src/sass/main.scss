@@ -9,12 +9,3 @@ $uikit-colour-Link: #d0def2;
 @import "overrides";
 @import "typography";
 @import "header";
-
-.uikit-grid {
-  .container,
-  .container-fluid {
-    max-width: 48em;
-    padding-left: uikit-space(.75);
-    padding-right: uikit-space(.75);
-  }
-}

@@ -32,5 +32,4 @@ The unit of delivery is the team. People bring skills to the team to deliver ser
 - Conduct content reviews and content audits of existing services
 - Conduct quality spot checks and provide feedback for other content designers
 - Adhere to and contribute to our Content Guide
-- Share your experience and knowledge with the content design community within the program and the APS
 - Minimum 5 years experience required

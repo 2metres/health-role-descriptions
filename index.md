@@ -13,7 +13,7 @@ To address this challenge, the Government has decided to replace the IT systems 
 
 ### About the program
 
-The Government has established the Modernising Health and Aged Care Payments Services Program (the Program) to deliver the transformation of the health and aged care payments services and the implementation of a new Digital Payments Platform.
+The Government has established the Modernising Health and Aged Care Payments Program (the Program) to deliver the transformation of the health and aged care payments services and the implementation of a new Digital Payments Platform.
 
 The vision for the Program is to deliver a new Digital Payments Platform that will harness existing digital commercial technology to develop a new Digital Payments Platform, which will be underpinned by modern, reliable and flexibile technology.
 
@@ -23,4 +23,4 @@ You will work in an agile way and actively participate in agile team practises l
 
 You and your teams will build minimum viable products according to our service design principles, and apply technology pragmatically. You will create and test hypotheses about user behaviour by using analytics, observing real users and acting on the results.
 
-You will work in co-located teams, and help evolve the DTA’s remote working practices. You will participate in wider internal and external communities (eg content design guilds) that guide how we work at the DTA and across government.
+You will work in co-located teams, and help evolve the program's remote working practices.

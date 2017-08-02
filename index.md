@@ -13,7 +13,7 @@ To address this challenge, the Government has decided to replace the IT systems 
 
 ### About the program
 
-The Government has established the Modernising Health and Aged Care Payments Program (the Program) to deliver the transformation of the health and aged care payments services and the implementation of a new Digital Payments Platform.
+The Government has established the Modernising Health and Aged Care Payments Services Program (the Program) to deliver the transformation of the health and aged care payments services and the implementation of a new Digital Payments Platform.
 
 The vision for the Program is to deliver a new Digital Payments Platform that will harness existing digital commercial technology to develop a new Digital Payments Platform, which will be underpinned by modern, reliable and flexibile technology.
 

@@ -1,3 +1,7 @@
+port: 80
+host: 0.0.0.0
+livereload: true
+
 exclude:
   - ".gitignore"
   - "README.md"

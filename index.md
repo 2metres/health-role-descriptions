@@ -1,5 +1,5 @@
 ---
-title: Overview
+title: Product Teams Overview
 ---
 
 ### Background
@@ -23,4 +23,4 @@ You will work in an agile way and actively participate in agile team practises l
 
 You and your teams will build minimum viable products according to our service design principles, and apply technology pragmatically. You will create and test hypotheses about user behaviour by using analytics, observing real users and acting on the results.
 
-You will work in co-located teams, and help evolve the program's remote working practices.
+You will work in co-located teams and help evolve the program's distributed working practices.

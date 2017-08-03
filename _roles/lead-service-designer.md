@@ -27,7 +27,7 @@ The unit of delivery is the team. People bring skills to the team to deliver ser
 - Identify user needs and demonstrate how design decisions support these needs.
 - Create design hypotheses to improve the service and work colleagues to run design measureable design experiments
 
-### Your responsibilities
+### Responsibilities
 
 - Leading and mentoring Service Designers and User Researchers within the Product Delivery teams
 - Assisting the Snr. Program Manager to empower and protect the Product Delivery teams

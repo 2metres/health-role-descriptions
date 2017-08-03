@@ -15,7 +15,7 @@ We are looking for designers with ability and experience in interaction design, 
   - Front end web development skills to enable creation of HTML prototypes
   - Visual/graphic design/generate and design intelligent experience guidelines, style guides and pattern libraries.
 
-## Specific tasks and experience required
+## Skills and Experience
 
 The unit of delivery is the team. People bring skills to the team to deliver services. As a Designer, you will bring these skills and attributes to the team:
 

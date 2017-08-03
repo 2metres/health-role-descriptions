@@ -20,7 +20,7 @@ The main responsibilities of the role are:
 - Maintain effective relationships with stakeholders both within the project, in the wider programme, wider program and government
 - Ensure teams are able to work effectively by having a productive working environment
 
-### Your Skills
+### Skills and Experience
 
 The unit of delivery is the team. People bring skills to the team to deliver services. As a delivery manager, you will be have significant experience in:
 
@@ -38,7 +38,7 @@ The unit of delivery is the team. People bring skills to the team to deliver ser
 - Comfortable in a dynamic, fast moving environment
 - Experience with budgets
 
-### The way you will work with others
+### Ways of Working
 
 You will lead the team in agile practises like weekly retrospectives, daily standups, weekly showcases, weekly sprint planning, and track work with online tools.
 

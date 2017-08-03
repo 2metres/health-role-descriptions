@@ -9,7 +9,7 @@ You will be a core member of a Program Team leading multiple Product Delivery te
 
 Reporting to the Snr. Program Delivery Manager you will form part of the Program Team, alongside the Service Design Lead, Product Management Lead, and a Delivery Manger with the authority to design and build digital government services, and do the hard work to radically improve the delivery of government information and services.
 
-### Relevant Skills
+### Skills and Experience
 
 - Experience building user-centric experiences for the web using HTML, CSS and Javascript
 - Excellent development skills in one or more object oriented or functional programming languages.

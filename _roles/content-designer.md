@@ -17,7 +17,7 @@ You have experience in usability, search engine optimisation, Google Analytics a
 
 You have a passion for making sure that government information and services are designed for everyone.
 
-### Specific tasks and experience required
+### Skills and Experience
 
 The unit of delivery is the team. People bring skills to the team to deliver services. As a Content Designer you will bring these skills and attributes to the team:
 

@@ -9,7 +9,7 @@ You will join a thriving team of designers, researchers, developers, product and
 
 You and your team have the authority to design and build digital government services, and do the hard work to radically improve the delivery of government information and services.
 
-### Relevant Skills
+### Skills and Experience
 
 - Experience building user-centric experiences for the web using HTML, CSS and Javascript
 - Excellent development skills in one or more object oriented or functional programming languages.

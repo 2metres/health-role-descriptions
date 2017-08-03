@@ -1,6 +1,10 @@
+html {
+  background-color: $uikit-colour-Primary; 
+}
 
 .uikit-body {
   font-family: 'Open Sans', sans-serif;
+  background-color: $uikit-colour-Background;
 
   p, ul, ol, dl {
     margin-top: uikit-space(0.3125);

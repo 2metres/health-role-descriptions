@@ -1,5 +1,5 @@
 ---
-title: Developer (Full Stack)
+title: Software Developer
 categories: development
 ---
 

@@ -240,11 +240,14 @@
       </svg>
     </a>
     <h1>{{ page.title }}</h1>
-    <nav class="uikit-breadcrumbs uikit-breadcrumbs--inverted" aria-label="breadcrumb">
-      <ol class="uikit-link-list uikit-link-list--inline uikit-link-list--inverted">
-        <li><a href="/">Home</a></li>
-        <li>{{ page.title }}</li>    
-      </ol>
-    </nav>
   </div>
 </header>
+
+{% unless page.name != 'index.md' %}
+  <nav class="uikit-breadcrumbs" aria-label="breadcrumb">
+    <ol class="uikit-link-list uikit-link-list--inline">
+      <li><a href="/">Home</a></li>
+      <li>{{ page.title }}</li>    
+    </ol>
+  </nav>
+{% endunless %}

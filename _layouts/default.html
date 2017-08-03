@@ -3,7 +3,15 @@
   <head>
     <meta charset="utf-8">
     <meta name="viewport" content="width=device-width, initial-scale=1">
+
+    <meta property="og:image" content="/assets/img/logo-gov-dep-health.png">
+    <meta property="og:title" content="{{ page.title }}">
+    <meta property="og:site_name" content="Multidisciplinary Teams to support the Modernising Health and Aged Care Payments Services Program">
+    <meta property="og:description" content="The vision for the Program is to deliver a new Digital Payments Platform that will harness existing digital commercial technology to develop a new Digital Payments Platform, which will be underpinned by modern, reliable and flexible technology.">
+    <meta property="og:url" content="http://health-role-descriptions.apps.staging.digital.gov.au{{ page.url }}">
+
     <title>{{ page.title }} | Modernising Health and Aged Care Payments Services Program</title>
+
     <link rel="stylesheet" href="/assets/css/style.min.css">
     <link href="https://fonts.googleapis.com/css?family=Open+Sans:300,300i,400,400i,700,700i" rel="stylesheet">
 
@@ -18,17 +26,17 @@
           <article class="col-md-8">{{ content }}</article>
           <aside class="col-md-4">
             {% include sidebar.html %}
-            <h6>Related</h6>
-            <a href="https://marketplace.service.gov.au/digital-marketplace/opportunities/555" rel="external" class="uikit-cta-link">Marketplace Brief</a>
-            <a href="https://www.dta.gov.au/standard/" rel="external" class="uikit-cta-link">Digital Service Standard</a>
+            <h6>Related links</h6>
+            <ul class="uikit-link-list">
+              <li><a class="uikit-cta-link" rel="external" href="https://marketplace.service.gov.au/digital-marketplace/opportunities/555">Marketplace Brief</a></li>
+              <li><a class="uikit-cta-link" rel="external" href="https://www.dta.gov.au/standard/">Digital Service Standard</a></li>
+            </ul>
           </aside>
         </div>
       </div>
     </main>
     <script type="text/javascript">
-      mixpanel.track('Visited page', {
-        'title': '{{ page.title }}'
-      });
+      mixpanel.track('Visited page', {'title': '{{ page.title }}'});
     </script>
   </body>
 </html>

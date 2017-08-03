@@ -9,13 +9,13 @@
   }
   a {
     transition: border-bottom 200ms;
-  
+
     &:hover,
     &:focus {
       border-bottom: 1px transparent solid;
     }
   }
-  
+
   &::before {
     content:'';
     position: fixed;
@@ -34,6 +34,10 @@
 
 .uikit-link-list > li {
   margin: uikit-space(0.125) 0;
+}
+
+.uikit-link-list .uikit-cta-link {
+  margin-bottom: 0;
 }
 
 .uikit-grid {

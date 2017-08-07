@@ -19,8 +19,8 @@ run: css-build
 	onchange 'src/sass/*.scss' -- make build
 
 serve: css-build
-	echo 'Starting Jekyll in detached mode'
-	bundle exec jekyll serve --detach &> /dev/null
+	echo 'Starting Jekyll'
+	bundle exec jekyll serve
 
 stop:
 	echo 'Stopping Jekyll'

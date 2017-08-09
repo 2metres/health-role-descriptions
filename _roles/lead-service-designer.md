@@ -7,7 +7,7 @@ categories: leadership design
 
 You will be a core member of a Program Team leading multiple Product Delivery teams with the authority to design and build digital government services, and to do the hard work necessary to radically improve the delivery of government information and services.
 
-Reporting to the Snr. Program Delivery Manager you will form part of the Program Team, alongside the Product Manager Lead, Technology Lead, and a Delivery Manger with the authority to design and build digital government services, and do the hard work to radically improve the delivery of government information and services.
+Reporting to the Snr. Program Delivery Manager you will form part of the Program Team, alongside the Product Manager Lead, Technology Lead, and a Delivery Manager with the authority to design and build digital government services, and do the hard work to radically improve the delivery of government information and services.
 
 You will support teams of designers, researchers, developers, content designers, product and delivery managers who are working in an agile way to build world class government digital services.
 

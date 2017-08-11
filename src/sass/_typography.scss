@@ -1,83 +1,83 @@
-// body {
-//   font-size: 18px;
-// 
-//   @media (min-width: $tablet-portrait) {
-//     font-size: 20px
-//   }
-// }
-//
-// h1, h2, h3, h4, h5, h6 {
-//   font-family: 'Open Sans', sans-serif;
-//   margin-top: uikit-space(0.5);
-//   margin-bottom: uikit-space(0.25);
-//   line-height: 1.2;
-// }
-//
-// h1, h2, h3, h4 {
-//   font-weight: 400;
-//   letter-spacing: -0.017125em;
-// }
-//
-// h5, h6 {
-//   text-transform: uppercase;
-//   letter-spacing: 0.017125em;
-//   margin-top: uikit-space(1);
-// }
-// 
-// h1 {
-//   font-size: 1.802em;
-//   font-weight: 700;
-// 
-//   @media(min-width: $mobile-plus) {
-//     font-size: 2.488em;
-//   }
-// }
-// 
-// h2 {
-//   font-size: 1.424em;
-// 
-//   @media(min-width: $tablet-portrait) {
-//     font-size: 1.728em;
-//   }
-// }
-// 
-// h3 {
-//   font-size: 1.266em;
-// 
-//   @media(min-width: $tablet-portrait) {
-//     font-size: 1.4444em;
-//   }
-// }
-// 
-// h4 {
-//   font-size: 1.125em;
-// 
-//   @media(min-width: $tablet-portrait) {
-//     font-size: 1.2em;
-//   }
-// }
-// 
-// h5 {
-//   font-size: 1em;
-//   font-weight: 600;
-// 
-//   @media(min-width: $tablet-portrait) {
-//     font-size: 1em;
-//   }
-// }
-// 
-// h6 {
-//   font-weight: 700;
-//   font-size: 0.889em;
-//   color: $uikit-colour-Border;
-// 
-//   @media(min-width: $tablet-portrait) {
-//     font-size: 0.833em;
-//   }
-// }
-// 
-// p, ul, ol, dl {
-//   line-height: 1.75;
-//   font-weight: 300;
-// }
-// 
+body {
+  font-size: 18px;
+
+  @media (min-width: $tablet-portrait) {
+    font-size: 20px
+  }
+}
+
+h1, h2, h3, h4, h5, h6 {
+  font-family: 'Open Sans', sans-serif;
+  margin-top: uikit-space(0.5);
+  margin-bottom: uikit-space(0.25);
+  line-height: 1.2;
+}
+
+h1, h2, h3, h4 {
+  font-weight: 400;
+  letter-spacing: -0.017125em;
+}
+
+h5, h6 {
+  text-transform: uppercase;
+  letter-spacing: 0.017125em;
+  margin-top: uikit-space(1);
+}
+
+h1 {
+  font-size: 1.802em;
+  font-weight: 700;
+
+  @media(min-width: $mobile-plus) {
+    font-size: 2.488em;
+  }
+}
+ 
+h2 {
+  font-size: 1.424em;
+
+  @media(min-width: $tablet-portrait) {
+    font-size: 1.728em;
+  }
+}
+ 
+h3 {
+  font-size: 1.266em;
+
+  @media(min-width: $tablet-portrait) {
+    font-size: 1.4444em;
+  }
+}
+ 
+h4 {
+  font-size: 1.125em;
+
+  @media(min-width: $tablet-portrait) {
+    font-size: 1.2em;
+  }
+}
+ 
+h5 {
+  font-size: 1em;
+  font-weight: 600;
+
+  @media(min-width: $tablet-portrait) {
+    font-size: 1em;
+  }
+}
+ 
+h6 {
+  font-weight: 700;
+  font-size: 0.889em;
+  color: $uikit-colour-Border;
+
+  @media(min-width: $tablet-portrait) {
+    font-size: 0.833em;
+  }
+}
+ 
+p, ul, ol, dl {
+  line-height: 1.75;
+  font-weight: 300;
+}
+ 
